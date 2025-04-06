@@ -2,5 +2,5 @@
 
 An app containing different pokemons build using react, html, css and api.
 
-Demo-https://deluxe-pastelito-e7a8ec.netlify.app/
+Demo-https://pokemon-app-new1.netlify.app/
 Code-https://github.com/Nitarya/pokemon-app.git
